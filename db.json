@@ -97,7 +97,7 @@
         {
           "id": 5,
           "name": "Portfolio Web.",
-          "description": " Created with Laravel and Booststrap, a simple app to add tasks. In addition to sending tasks by email ",
+          "description": " Created with Vuejs, HTML and CSS, SPA that you can see just now ",
           "technologies": [
             { "id": 1, "name": "vuejs" },
             { "id": 2, "name": "html5" },
@@ -282,7 +282,7 @@
             { "id": 2, "name": "html5" },
             { "id": 3, "name": "css3" }
           ],
-	  "source": "https://github.com/EdgarGc026/personal-website",
+          "source": "https://github.com/EdgarGc026/personal-website",
           "demo": "https://edggc026.netlify.app/"
         }
       ],
